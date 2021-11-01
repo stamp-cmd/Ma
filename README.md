@@ -25,3 +25,7 @@ ext install <Material Theme's id>
 
 ## ChangeLog:
 ### ChangeLog is presented in CHANGELOG.md
+
+## Badges
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
