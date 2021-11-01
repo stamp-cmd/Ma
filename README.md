@@ -23,5 +23,7 @@ ext install <Material Theme's id>
 ### Icon
 ![Icon](Icon.png)
 
+#### Logo from google material design
+
 ## ChangeLog:
 ### ChangeLog is presented in CHANGELOG.md
