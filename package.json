@@ -1,0 +1,17 @@
+{
+    "name": "material-theme",
+    "displayName": "Material Theme",
+    "version": "1.0.0",
+    "description": "An extension with material-themed extensions",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "PKief.material-icon-theme",
+        "Equinusocio.vsc-community-material-theme",
+        "PKief.material-product-icons"
+    ]
+}
