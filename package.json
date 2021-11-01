@@ -13,5 +13,12 @@
         "PKief.material-icon-theme",
         "Equinusocio.vsc-community-material-theme",
         "PKief.material-product-icons"
-    ]
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/stamp-cmd/Material-Theme"
+    },
+    "icon": "Icon.png",
+    "markdown": "github"
 }
